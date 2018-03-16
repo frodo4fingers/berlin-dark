@@ -1,0 +1,22 @@
+{
+    "name": "berlin-dark",
+    "displayName": "berlin+dark",
+    "description": "dark color theme",
+    "version": "0.0.1",
+    "publisher": "frodo4fingers",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "berlin+dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/berlin+dark-color-theme.json"
+            }
+        ]
+    }
+}
