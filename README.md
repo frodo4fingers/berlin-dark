@@ -7,4 +7,4 @@
 + extend highlighting for other name scopes
 
 ## problems or suggestions?
-fell free to open a [ticket]()
+fell free to open a [ticket](https://github.com/frodo4fingers/berlin-dark/issues) :-)
